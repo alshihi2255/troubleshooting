@@ -1,0 +1,33 @@
+﻿.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+    .footerlinks:hover {
+        color: #ffd800;
+    }
+
+    #footer2 {
+        background: #c2bcbc;
+
+    }
+
+.content {
+    min-height: calc(100vh - 70px);
+    padding: 20px 20px 0 20px;
+}
+
+.footer {
+    height: 30px;
+    position: fixed;
+ right: auto;
+    bottom:0;
+}
+
+
+
+
+
+
+
+
